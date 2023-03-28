@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 
 
 <h1 align = "center"> ¡Hola! 👋 Soy Michelle 🌻</h1>
-<h3 align = "justify"> Una apasionada desarrolladora frontend de México ❤️ </h3>
-<h4 align = "justify"> Soy ingeniera en Computación egresada del Instituto Politécnico Nacional. Despúes de terminar 
-la universidad decidí tomar un break para poder encontrar mi "rumbo" en el mundo laboral y alejarme de todo lo que se
-relacionará con la tecnología y meses despúes oh sorpresa ... se me presentó la oportunidad de ingresar a Laboratoria 
+<h3 align = "justify"> Una apasionada desarrolladora Frontend de México ❤️ </h3>
+<h4 align = "justify"> Ingeniera en Computación egresada del Instituto Politécnico Nacional. Despúes de terminar 
+la Universidad decidí tomar un break para poder encontrar mi "rumbo" en el mundo laboral y alejarme de todo lo que se
+relacionará con la tecnología y meses despúes, ¡oh sorpresa! ... se me presentó la oportunidad de ingresar a Laboratoria 
 (un bootcamp que apoya a mujeres que desean iniciar una carrera en el mundo tec). Complete las etapas con las que se da
-el pase para poder ser considerada y sin creer que tenía lo que se necesitaba para ser aceptada lo logré 💪🏼🥳 
+el pase para poder ser considerada, y sin creer que tenía lo que se necesitaba para ser aceptada lo logré 💪🏼🥳 
 ¿destino o casualidad? 🤔 </h4>
 
 - 🌱 Actualmete estoy aprendiendo: CSS | Javascript | React | Firebase 
